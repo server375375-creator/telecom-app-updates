@@ -1,0 +1,10 @@
+{
+  "version": "0.1.0",
+  "date": "2026-02-25T10:12:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "",
+      "url": "https://github.com/server375375-creator/telecom-app/releases/download/v0.1.0/TelecomApp_0.1.0_x64-setup.exe"
+    }
+  }
+}
