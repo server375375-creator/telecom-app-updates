@@ -1,10 +1,10 @@
 {
-  "version": "0.3.7",
-  "date": "2026-03-05T13:23:13Z",
+  "version": "0.3.8",
+  "date": "2026-03-06T07:35:13Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "",
-      "url": "https://github.com/server375375-creator/telecom-app/releases/download/v0.3.7/TelecomApp_0.3.7_x64-setup.exe"
+      "url": "https://github.com/server375375-creator/telecom-app/releases/download/v0.3.8/TelecomApp_0.3.8_x64-setup.exe"
     }
   }
 }

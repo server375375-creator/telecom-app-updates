@@ -1,10 +1,10 @@
 {
-  "version": "0.3.7",
-  "date": "2026-03-05T13:23:13Z",
+  "version": "0.3.8",
+  "date": "2026-03-06T07:35:13Z",
   "platforms": {
     "linux-x86_64": {
       "signature": "",
-      "url": "https://github.com/server375375-creator/telecom-app/releases/download/v0.3.7/telecomapp_0.3.7_amd64.AppImage"
+      "url": "https://github.com/server375375-creator/telecom-app/releases/download/v0.3.8/telecomapp_0.3.8_amd64.AppImage"
     }
   }
 }
