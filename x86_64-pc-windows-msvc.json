@@ -1,0 +1,10 @@
+{
+  "version": "0.4.0",
+  "date": "2026-03-09T06:01:32Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "",
+      "url": "https://github.com/server375375-creator/telecom-app/releases/download/v0.4.0/ClassicGroupApp_0.4.0_x64-setup.exe"
+    }
+  }
+}
